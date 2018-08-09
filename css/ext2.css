@@ -1,0 +1,53 @@
+body
+	{
+		background-color: rgba(255, 255, 153,0.7);
+	}
+
+h1
+	{
+		background-color:rgba(153, 0, 204,0.7);
+		color: white;
+		border: 5px solid black;
+	}	
+
+p
+	{
+		background-color: MediumSeaGreen;
+		border: 3px solid black;
+	}	
+
+a:link 
+	{
+	    color: green;
+	    background-color: transparent;
+	    text-decoration: none;
+	}
+
+a:visited 
+	{
+	    color: pink;
+	    background-color: transparent;
+	    text-decoration: none;
+	}
+
+a:hover 
+	{
+	    color: red;
+	    background-color: transparent;
+	    text-decoration: underline;
+	}
+
+a:active 
+	{
+	    color: yellow;
+	    background-color: transparent;
+	    text-decoration: underline;
+	}
+
+img
+	{
+		width:50px;
+		height: 80px;
+		border: 10px;
+		float: right;
+	}	
