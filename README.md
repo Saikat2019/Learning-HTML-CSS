@@ -7,9 +7,6 @@
 [![Language](https://img.shields.io/badge/HTML-5-009900.svg)](https://www.w3.org/standards/webdesign/htmlcss)
 [![Language](https://img.shields.io/badge/CSS-4-8f00b3.svg)](https://www.w3.org/standards/webdesign/htmlcss)
 
-<p align="center" >
-<img src="README_RES/codesnippet.jpg" height="300" width="600">
-</p>
 
 ## Table of Contents
 - [Examples](#Examples)
