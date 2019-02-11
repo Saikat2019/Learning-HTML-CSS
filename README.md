@@ -14,7 +14,6 @@
 ## Table of Contents
 - [Examples](#Examples)
 - [References](#References)
-- [Tools](#Tools)
 - [Feedback](#Get-Feedback)
 - [Contribute](#Contribute)
 - [License](#License)
@@ -39,7 +38,7 @@ These are some good resources to learn HTML and CSS, I took help from these
 ## Get Feedback
 
  -	### Give me feed back here.
-	 - [My Email](mailto:saikatmondal410@gmail.com) 
+	 - [My Email](mailto:saikatmondal410@iitkgp.ac.in) 
 	 - [My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free to ping*
  -  ### Me
  	<p>
